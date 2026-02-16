@@ -12,4 +12,6 @@ Para embarcarte en dicha aventura necesitarás lo siguiente:
 * Algunos tokens (monedas, miniaturas, etc) que puedan representar a los personajes y monstruos en el mapa.
 
 ## Siguientes pasos
-* [Comprender tu hoja de personaje](character/sheet/basic_explanation.md)
+* [Creando tu personaje](character/creation.md)
+* [Lanzando los dados](dies.md)
+* [Inicio de la aventura](adventure/01.Beginning_of_the_adventure.md)
